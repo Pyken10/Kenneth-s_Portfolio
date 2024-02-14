@@ -1,5 +1,4 @@
 # Kenneth's Portfolio
-Analytics Portfolio
 
 # [Project 1: Stock Price Prediction](https://github.com/Pyken10/Stock-Prediction)  
 
