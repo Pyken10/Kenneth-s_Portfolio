@@ -1,5 +1,3 @@
-# Kenneth's Portfolio
-
 # [Project 1: Stock Price Prediction](https://github.com/Pyken10/Stock-Prediction)  
 
 * **Data Preprocessing**: Ensured data quality for Digital Ocean, Freshworks, and Subex with thorough cleaning using Pandas.
