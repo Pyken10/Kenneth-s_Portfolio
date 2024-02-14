@@ -10,7 +10,7 @@
 * **Data-Driven Strategies**: Demonstrated the integration of data science with financial analysis, using Pandas, Numpy, Matplotlib, and the Prophet forecasting model for strategic stock trading insights.
 
 ## Prophet forecasting model used in stock prediction
-![](images/forecast.png)
+![](forecast.png)
 
 # [Project 2: Blast Freezer Truck Schedule Optimization for Supply Chain Efficiency](https://github.com/Pyken10/Blast-Freezer-Truck-Schedule-Optimization-for-Supply-Chain-Efficiency)
 
