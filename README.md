@@ -9,6 +9,9 @@
 * **Strategic Insights**: Delivered actionable insights for informed investments in the tech stock market, utilizing advanced predictive analytics.
 * **Data-Driven Strategies**: Demonstrated the integration of data science with financial analysis, using Pandas, Numpy, Matplotlib, and the Prophet forecasting model for strategic stock trading insights.
 
+## Prophet forecasting model used in stock prediction
+![](images/forecast.png)
+
 # [Project 2: Blast Freezer Truck Schedule Optimization for Supply Chain Efficiency](https://github.com/Pyken10/Blast-Freezer-Truck-Schedule-Optimization-for-Supply-Chain-Efficiency)
 
 * **Strategic Scheduling Model Development**: Developed a model for optimizing Interchange Group Inc.'s blast freezer truck schedules, balancing capacity and operational costs.
