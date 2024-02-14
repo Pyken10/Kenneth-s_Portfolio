@@ -7,7 +7,7 @@
 * **Predictive Modeling**: Employed the Prophet forecasting model for accurate future stock price predictions, enhancing investment decision-making.
 * **Visual Insights**: Offered visual comparisons of predicted vs. actual prices with Matplotlib, validating the accuracy of the Prophet model.
 * **Strategic Insights**: Delivered actionable insights for informed investments in the tech stock market, utilizing advanced predictive analytics.
-* **Data-Driven Strategies**: Demonstrated the integration of data science with financial analysis, using Pandas, Numpy, Matplotlib, and the Prophet forecasting model for strategic stock trading insights.
+* **Data-Driven Strategies**: Demonstrated the integration of data science with financial analysis, using Pandas, Numpy, Matplotlib, and the Prophet forecasting model for strategic stock trading.
 
 # [Project 2: Blast Freezer Truck Schedule Optimization for Supply Chain Efficiency](https://github.com/Pyken10/Blast-Freezer-Truck-Schedule-Optimization-for-Supply-Chain-Efficiency)
 
