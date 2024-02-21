@@ -21,6 +21,12 @@
 * **Analytics in Operational Efficiency**: Showcased the effective use of analytics, particularly Monte Carlo simulations and data analysis, for logistics optimization in the food supply chain sector.
 * **Tools for Analytics and Visualization**: Employed Pandas, Numpy, and Matplotlib to support data analysis and visualization efforts in the project.
 
+## Distribution of Freezing Hours in Blast Freezer Operations
+![](Freezing_hours.png) 
+
+## Weekly Total Processing Time Distribution in Blast Freezing
+![](Tot_processing_time.png)
+
 # [Project 3: Digital Marketing Project for Uncommon VCU Website](https://github.com/Pyken10/Digital-Marketing-Project-for-Uncommonvcu)
 
 * **Website Development & UX Optimization**: Crafted a responsive Uncommonvcu website with WordPress, ensuring user-friendly navigation and peak performance.
@@ -28,6 +34,12 @@
 * **Performance Metrics Analysis**: Leveraged Bing Places and Google Search Console to analyze and boost website metrics, focusing on local SEO.
 * **Elementor-WordPress Integration**: Solved Elementor compatibility issues, upholding consistent design and functionality across the platform.
 * **Digital Marketing Success**: Formulated strategies yielding a 20% boost in user engagement through improved search engine click-through rates.
+
+## Uncommon VCU website
+![](Uncommonvcu_Website.png)
+
+## Google Console Visualization
+![](Google_console.png)
 
 # [Project 4: Football Player Management System](https://github.com/Pyken10/Football-Player-Management-System/tree/main) 
 
