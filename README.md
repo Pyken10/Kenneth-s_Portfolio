@@ -21,7 +21,7 @@
 * **Analytics in Operational Efficiency**: Showcased the effective use of analytics, particularly Monte Carlo simulations and data analysis, for logistics optimization in the food supply chain sector.
 * **Tools for Analytics and Visualization**: Employed Pandas, Numpy, and Matplotlib to support data analysis and visualization efforts in the project.
 
-# [Project 3: Digital Marketing Project for Uncommon VCU Website]
+# [Project 3: Digital Marketing Project for Uncommon VCU Website](https://github.com/Pyken10/Digital-Marketing-Project-for-Uncommonvcu)
 
 * **Website Development & UX Optimization**: Crafted a responsive Uncommonvcu website with WordPress, ensuring user-friendly navigation and peak performance.
 * **SEO Best Practices Implementation**: Applied SEO techniques such as alt text and image optimization, enhancing search rankings and user accessibility.
@@ -29,7 +29,7 @@
 * **Elementor-WordPress Integration**: Solved Elementor compatibility issues, upholding consistent design and functionality across the platform.
 * **Digital Marketing Success**: Formulated strategies yielding a 20% boost in user engagement through improved search engine click-through rates.
 
-# [Project 4: Football Player Management System]
+# [Project 4: Football Player Management System](https://github.com/Pyken10/Football-Player-Management-System/tree/main) 
 
 * **Technologies Used**: Python for backend development; SQL for database management; 
 * **Project Description**: Engineered a robust platform for managing football players’ profiles, streamlining processes such as data entry, updates, and player performance tracking.
